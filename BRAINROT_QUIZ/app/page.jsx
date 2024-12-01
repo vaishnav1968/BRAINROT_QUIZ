@@ -165,7 +165,7 @@ const HomePage = () => {
 
             <a
                 className='fixed bottom-0 flex items-center gap-2 pb-2 font-mono text-sm text-white/70 transition hover:text-emerald-300 sm:m-0'
-                href='https://github.com/quentin-mckay/ai-quiz-generator'
+                href='https://vaishnav1968.github.io/BRAINROT_QUIZ/'
                 target='_blank'
             >
                 {/* <FiGithub size={16} className='translate-y-[0px]' /> */}
